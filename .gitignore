@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Maven
+target
+mvnw*
+.mvn
+
+# VScode
+.vscode/settings.json
+.apt*
+
+#log
+*.log
